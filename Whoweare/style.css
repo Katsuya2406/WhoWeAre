@@ -1,0 +1,51 @@
+body{
+        width: 100%;
+        min-height: 100vh;
+        padding: 5%;
+        background-image: linear-gradient(to top, rgb(228, 144, 144), rgb(251, 230, 211));
+        background-position: center;
+        background-size: cover;
+        display: flex;
+    
+       
+    }
+
+
+    .p1{
+
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        position: absolute;
+        right: 675px;
+        font-size: 25px;
+    }
+
+    .p2{
+
+        font-family:'Times New Roman', Times, serif;
+        position: absolute;
+        right: 585px;
+        top: 150px;
+        font-size: 50px;
+        color:rgb(155, 44, 44);
+    }
+
+    .hr{
+        font-size: 2rem;
+        top: 350px;
+        left: 250px;
+        position: absolute;
+    }
+
+    .ie{
+        font-size: 2rem;
+        top: 550px;
+        left: 250px;
+        position: absolute;
+    }
+
+    b{
+
+        color:rgb(155, 44, 44) ;
+    }
+
+    
