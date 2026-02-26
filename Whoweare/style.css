@@ -14,6 +14,7 @@ body{
     .p1{
 
         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
         position: absolute;
         right: 675px;
         font-size: 25px;
@@ -22,11 +23,15 @@ body{
     .p2{
 
         font-family:'Times New Roman', Times, serif;
+        
         position: absolute;
         right: 585px;
         top: 150px;
         font-size: 50px;
-        color:rgb(155, 44, 44);
+          background: linear-gradient(to top, rgb(87, 6, 6), rgb(238, 90, 90));
+                -webkit-background-clip: text;
+                background-clip: text;
+                color: transparent;
     }
 
     .hr{
@@ -43,7 +48,7 @@ body{
         position: absolute;
     }
 
-    b{
+    .b1{
 
         color:rgb(155, 44, 44) ;
     }
